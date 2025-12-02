@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    
+}
+.bodyy{
+    background-image:url("salle-de-reception-d-hotel-de-luxe-et-restaurant-lounge-avec-plafond-haut.jpg");
+    background-size: cover;     
+}
+.nav-bar{
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
+.nav-bar ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 50%;
+    margin-top: 15%;
+
+}
+a{
+    background-color:rgb(100, 99, 99) ;
+    padding: 50%;
+    border-radius: 10%;
+    text-decoration: none;
+    color: black;
+
+}
+a:hover{
+    background-color: rgb(88, 88, 87);
+    
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+    font-size: 19px;
+    
+}
+table{
+    margin-left: 0.5%;
+    margin-top: 2%; 
+}
+
